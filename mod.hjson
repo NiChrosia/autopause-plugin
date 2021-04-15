@@ -1,0 +1,7 @@
+name: autopause
+displayName: AutoPauser
+author: NiChrosia
+description: "Automatically pauses the game when no players are online."
+version: 1.0
+minGameVersion: 126
+hidden: true
