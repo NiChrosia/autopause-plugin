@@ -1,5 +1,5 @@
 Events.on(PlayerLeave, e => {
-  if (Groups.player.size() < 1) {
+  if (Groups.player.size() <= 1) {
     Vars.state.serverPaused = true
   };
 });
